@@ -1,0 +1,4 @@
+Hola mundo
+buenos dias
+buenas noches
+adios

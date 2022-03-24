@@ -1,0 +1,9 @@
+Apariciones de 'hola' = 2
+Apariciones de 'como' = 1
+Apariciones de 'estan' = 2
+Apariciones de 'mañana' = 1
+Apariciones de 'mato' = 1
+Apariciones de 'a' = 2
+Apariciones de 'alexis' = 1
+Apariciones de 'wtf' = 1
+Apariciones de 'bro' = 1
